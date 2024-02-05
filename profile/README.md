@@ -31,3 +31,11 @@ Here are some considerations to make when sharing content. Following these guide
 - all sample JOB(s) demonstrating "output" or "export" functionalities should:
   - create output without errors/warnings to local file or directory
   - the "fully-operational" output result should be included within the JOB sample with appropriate link in the DIV_readme
+
+### Graphics
+
+In order to view graphics that are included with these sample jobs, you will need to make sure your Graphics Configuration is set correctly. To verify, do the following.
+Launch the XPP Administrative Tools. From the Administrative Tools, click File -> Graphics Configuration. The Master Graphics Configuration Spec will open.
+
+Create a new rule. Click Menu->Main Menu-> New Rule. In the Library Name field, type "graphics". In the Library Path field, type .. (two periods). This instructs XPP to look for a folder called
+graphics in the current job directory. Store and exit from the Graphics Configuration, and you can also close the Administrative Tools application.
