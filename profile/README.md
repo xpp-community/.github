@@ -2,6 +2,8 @@
 
 We encourage our userbase to share ideas through repositories hosted here. By sharing data to this Github account, you agree that RWS may modify or delete any content they deem unprofessional or unhelpful. 
 
+Please note that content appearing here may be subject to RWS Community Terms and conditions. Any content that is uploaded here is subject to removal if it is found to not abide by rules found here:  https://www.rws.com/legal/terms-and-conditions/community-terms-conditions/
+
 ## Repository Best Practices
 
 ### Readme
@@ -16,10 +18,6 @@ Suggested Readme content:
 - provide links to output or export results, where applicable
 - document commands and options used to generate output or export results, where applicable
 - instructions for placings local styles into desired Lstylelib, so they can be applied across multiple JOBs in customer's production environment
-
-### Inclusive Content
-
-Refrain from the use of slang words, offensive terms, phrases. Avoid inclusion of content that includes spiritual or political meanings.
 
 ### Job Ticket/Library Considerations
 
