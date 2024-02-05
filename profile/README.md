@@ -1,8 +1,6 @@
 # XPP Community
 
-We encourage our userbase to share ideas through repositories hosted here. By sharing data to this Github account, you agree that RWS may modify or delete any content they deem unprofessional or unhelpful. 
-
-Please note that content appearing here may be subject to RWS Community Terms and conditions. Any content that is uploaded here is subject to removal if it is found to not abide by rules found here:  https://www.rws.com/legal/terms-and-conditions/community-terms-conditions/
+We encourage our userbase to share ideas through repositories hosted here. By sharing data to this Github account, you agree to abide by the RWS Community Terms and Conditions outlined here:   https://www.rws.com/legal/terms-and-conditions/community-terms-conditions/
 
 ## Repository Best Practices
 
