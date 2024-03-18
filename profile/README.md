@@ -2,6 +2,8 @@
 
 Welcome to the XPP Community RWS account specifically designed to distribute and share examples for all XPP users. Please see this thread if you do not have access to the content within: [Discussions: Request an Invite Here](https://github.com/orgs/xpp-community/discussions/2)  
 
+Please note, we'll be covering use of this site in an upcoming webinar on April 16, 2024 – sign up for it in the community events page if you have not received an invite directly.
+
 The content of this account must adhere to the RWS Community Terms and Conditions outlined here: https://www.rws.com/legal/terms-and-conditions/community-terms-conditions/
 
 The purpose of this account is to share:
